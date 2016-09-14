@@ -1,2 +1,2 @@
 # byblog-vuejs
-use vuejs
+use vuejs and thinkPHP
